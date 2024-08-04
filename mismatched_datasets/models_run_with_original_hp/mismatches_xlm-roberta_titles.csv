@@ -1,0 +1,452 @@
+actual,predicted,test_id,text
+adhd,none,2,"""what kind of music do you listen to?"" no answer"
+adhd,anxiety,9,do not rely on willpower
+adhd,depression,11,finish it friday
+adhd,depression,17,only you would appreciate this
+adhd,depression,18,when the sun goes down i become the person i want to be.
+adhd,ptsd,28,i don’t know talking is hard
+adhd,anxiety,29,small win made my boss smile
+adhd,depression,32,i bit the bullet
+adhd,bipolar,36,i feel like i’m “retarded” sometimes.
+adhd,anxiety,37,the cough drop sign
+adhd,bipolar,40,forcing yourself vs. understanding your limitations?
+adhd,ptsd,44,"tips on regulating emotions, specifically the ""cringe"" feeling?"
+adhd,ptsd,46,we need a light moment - kinda funny story about son in school
+adhd,bipolar,54,"after over a month unemployed, i finally have a really promising interview this morning."
+adhd,bipolar,58,my wife is insanely needy.
+adhd,ptsd,61,waiting for people to stop talking.
+adhd,anxiety,67,interview for dream job in one hour. wish me luck!
+adhd,depression,71,not wanting to be a problem sometimes makes things worse.
+adhd,depression,74,why can't i just do shit
+adhd,anxiety,76,can i give you all one big cyber hug??
+adhd,ptsd,79,difficulty expressing emotions?
+adhd,depression,80,i cleaned my room and holy shit!
+adhd,bipolar,81,"i know that the future is coming, but i don't believe it."
+adhd,depression,88,wasted days
+adhd,none,91,dating experiments: a report on the latest failure
+adhd,anxiety,105,i don’t know any of you but i feel like you’re all my friends.
+adhd,ptsd,106,i constantly feel like i need to leave a good impression on people?
+adhd,depression,109,i wish i could sleep so bad it makes me want to cry
+adhd,bipolar,111,terrifying
+adhd,anxiety,113,this condition is debilitating. just paid over $1000 in penalty and interest for my taxes.
+adhd,depression,115,don't you hate it when you lose track of what you were daydreaming about and can't get back to it
+adhd,depression,118,"it hurts when you think someone is starting to understand you and then they hit you with a: ""yeah but, everybody struggles with motivation/procrastination/etc"""
+adhd,anxiety,132,anyone feel scared to get back into hobbies after you abandoned them?
+adhd,anxiety,139,i got a 3.48 gpa over my last five college classes!!!
+adhd,ptsd,141,i burn out and melt down every couple of months.
+adhd,depression,143,""" if you cared than you wouldn't have forgot """
+adhd,bipolar,148,medication guilt: an honest conversation
+adhd,anxiety,149,my wife and i made a bad choice
+adhd,depression,161,tonight i got ready for tomorrow morning
+adhd,depression,168,i wish i could just grab all of you and move to another planet
+adhd,bipolar,169,"why can't i do ""unhealthy"" stuff responsibly?"
+adhd,bipolar,182,newly diagnosed? rewatch ms. doubtfire .
+adhd,bipolar,185,possible cleaning tip
+adhd,depression,186,guys this morning i had to be somewhere at 12:30 and i woke up at 11
+adhd,anxiety,190,do you guys have a hard time making friends?
+adhd,bipolar,192,psa (usa): don't take the last week as a baseline for your self-esteem in dealing with life
+adhd,depression,195,i feel like my life is a constant cycle of 1-2 weeks of positivity and organization followed by 5-6 months of failure and depression
+adhd,bipolar,198,rejuvenate
+adhd,none,204,help with teeth?
+adhd,anxiety,221,my life feels like i'm constantly trying to over-come one hurdle after another.
+adhd,ptsd,223,oh boy am i angry
+adhd,bipolar,228,psa: for people in the us
+adhd,bipolar,230,i've finally found a manager who gets it. i'm trying not to cry.
+adhd,bipolar,238,"i wrote a loooong comment in reply to someone asking why ww give children 'drugs', and his comment got removed. i still have to let this off my chest, so i'm leaving it here."
+depression,adhd,248,please brush your teeth.
+depression,anxiety,259,i do fit in. i do have friends. i do have a loving family. i do have people who care about me. i do have a support system.
+depression,bipolar,261,it's time for me to go.
+depression,adhd,262,life does not always get better for everyone. perseverance does not always pay off. sometimes the only thing sticking it out leads to is more suffering.
+depression,bipolar,263,music is keeping me here
+depression,ptsd,266,"you ever laugh and think ""wow i haven't felt that in so long"""
+depression,ptsd,271,yes i can do it
+depression,bipolar,273,i now have somebody.
+depression,anxiety,282,today was the day that made all of my bad days worth it.
+depression,adhd,284,today i finally had enough motivation to clean my room entirely.
+depression,ptsd,287,anybody else feel like their losing their memory?
+depression,ptsd,292,i feel like a plastic cup
+depression,adhd,293,why being high-functioning sucks ass
+depression,bipolar,294,i'm applying for a job
+depression,ptsd,298,i got raped twice and get bullied about it. i started to cry myself into sleep again for a week now and i don't know what to do anymore [context in the comments]
+depression,anxiety,304,you guys ever feel like self loathing is addicting
+depression,bipolar,306,"two days ago i was feeling amazing, the best i ever have and now i am miserable and want to die. wtf brain."
+depression,bipolar,311,i've called five different therapists now and none of them are accepting new patients
+depression,ptsd,322,i miss it.
+depression,ptsd,324,why is everything so fucking hard
+depression,adhd,327,i've skipped work and laid in bed for 3 days straight. i don't know what to do. i just have no motivation to get up in the morning.
+depression,bipolar,328,farewell.
+depression,adhd,331,time is rude and shows no liking of me
+depression,bipolar,334,"love is dangerous, especially when you are mentally ill."
+depression,bipolar,338,"alone for christmas every year, well.... i am with family, but i feel alone"
+depression,adhd,339,i washed and folded my laundry today.
+depression,adhd,340,"when i have nothing to do, i get bored. when i have stuff to do, i get tired. when i'm alone, i get lonely. when i'm around other people, i get nervous and self-conscious."
+depression,anxiety,342,i hate how insensitive people can be
+depression,bipolar,350,hi
+depression,anxiety,353,so sick of hearing “you need to go out” and “put in some effort”
+depression,anxiety,356,positive or bubbly people annoy me.
+depression,adhd,362,why do parents care more about school work than your mental state?
+depression,adhd,369,"if you think that's it's as simple as ""just going out and just making friends"" or ""just getting up and doing something""..."
+depression,anxiety,371,"six months, yet i mourn no less..."
+depression,adhd,373,got an email from the college i applied to that i was accepted and told my parents. only for me to get a second email a few minutes later saying that email was a mistake and i didn't get in.
+depression,anxiety,378,went to my first therapy appointment!!
+depression,ptsd,382,held a gun to my head last night. still have it sitting beside me.
+depression,bipolar,383,"after 2.5 years unemployed, i’ve finally landed myself a job!"
+depression,anxiety,384,does anyone else feel worse after having a good time?
+depression,bipolar,388,"does anyone else find it difficult to keep up with personal hygiene (brushing teeth, showering, shaving, etc) when in a depressive episode?"
+depression,adhd,393,"one of the most annoying thing about mental illness is that people constantly act like you don't suffer from it, even when they know you do."
+depression,anxiety,396,"had my (first) first date, girl blocked me everywhere and i feel horrible"
+depression,anxiety,397,i'm winning this battle today
+depression,ptsd,399,i feel like a sim
+depression,bipolar,401,feeling pretty blue and just wanna say hi and send some love to anyone else feeling blue
+depression,bipolar,402,here's to devin
+depression,bipolar,404,stupid fuck who's sick of being a stupid fuck.
+depression,anxiety,410,does anyone else have an imaginary world to cope?
+depression,anxiety,411,i can go an entire day without talking to another human being.
+depression,ptsd,412,i feel like i'm becoming dumber everyday.
+depression,anxiety,413,anyone else sick and tired of socialising ? and it being thrown back in your face ?
+depression,ptsd,414,do you guys feel it too?
+depression,adhd,418,"why can't people understand i'm not just being lazy, i just feel unable to move"
+depression,anxiety,419,i think i am too afraid of death to kill myself
+depression,ptsd,422,am i the only one who gets attatched too easily and hates it?
+depression,bipolar,434,intelligence and depression
+depression,anxiety,436,does anyone else find comfort in listening to music?
+depression,anxiety,437,i am 72 days free from heroin.
+depression,bipolar,440,the death of etika just shows how much of a joke people take mental illness
+depression,ptsd,441,i don't even have the energy to fight back anymore.
+depression,bipolar,442,"am i alone in thinking that there are a lot of creepy, unethical, and just plain weird therapists out there?"
+depression,adhd,443,a text my wife sent me that had me in tears
+depression,ptsd,444,dae feel worse because they don't make money/have a job?
+depression,anxiety,452,ever just feel like randomly crying?
+depression,bipolar,454,i suck i suck
+depression,ptsd,462,"if you care, will you read?"
+depression,bipolar,464,basically got called ugly tonight
+depression,adhd,469,i'm so useless and do nothing all day.
+depression,bipolar,471,my marriage evaporated in an instant
+depression,anxiety,474,to the girl in the pink jacket at the train station today.
+depression,bipolar,478,getting bullied because i'm poor
+depression,bipolar,481,money money money fuck you
+depression,adhd,483,failed 2 classes. now i’m on academic suspension.
+anxiety,ptsd,496,need someone to talk to?
+anxiety,ptsd,499,please stay off the news
+anxiety,depression,508,does anyone else get snappy?
+anxiety,bipolar,509,realising how far i've come
+anxiety,bipolar,510,is it 'selfish' to not want to celebrate birthdays and holidays
+anxiety,ptsd,512,should i be worried? nsfw
+anxiety,ptsd,513,hey you
+anxiety,ptsd,518,lpt: slow the fuck down.
+anxiety,bipolar,519,i'm better. like for real better.
+anxiety,depression,520,"i have this paranoia that everyone finds me weird, creepy, and text each other about me behind my back."
+anxiety,depression,521,i'm 18 and i feel awful unless i'm drunk or high
+anxiety,depression,523,can someone wish me a happy birthday?
+anxiety,depression,524,i presented today!!!
+anxiety,bipolar,528,my phd study is finally over
+anxiety,ptsd,529,please help.
+anxiety,depression,533,dae hate their birthday because of all the attention?
+anxiety,depression,535,i’m sorry if this gets asked a lot but... does anyone else feel too “normal” to not have a mental illness but not “crazy” enough to actually have one?
+anxiety,depression,538,does anyone else sleep with a stuffed animal?
+anxiety,depression,540,"what's the point of living if you know you will have to become a ""work slave"" 9 to 5, 5 days a week for all eternity. how do i ""counter"" this thought?"
+anxiety,ptsd,545,i bury my best friend tomorrow. i bumped into my ex with another guy. i can't deal with this. i feel sick.
+anxiety,bipolar,546,depersonalization/dissociating?
+anxiety,bipolar,550,just got hired!
+anxiety,bipolar,553,"hey, can i have a moment of your time?"
+anxiety,depression,555,does anyone struggle with needing to be every type of person?
+anxiety,bipolar,559,dear you
+anxiety,bipolar,562,would anybody agree we need more positive posts on this subreddit?
+anxiety,ptsd,563,i'm proud of myself being rejected
+anxiety,depression,564,anyone feels like they’re always being lied to?
+anxiety,adhd,566,the media is profiting off people like us
+anxiety,ptsd,567,a tip from my therapist
+anxiety,ptsd,571,brain never stops
+anxiety,depression,572,i hate myself
+anxiety,depression,573,yesterday i rented a car
+anxiety,depression,578,1 year on antidepressants
+anxiety,depression,582,"i say ""i'm sorry"" too much"
+anxiety,ptsd,585,it actually can get better
+anxiety,bipolar,587,"""hiding"" from work? need advice before career implodes"
+anxiety,depression,590,anybody else do nothing during free time because you can't decide
+anxiety,bipolar,594,i'm on a fucking roll!
+anxiety,ptsd,595,today at therapy
+anxiety,depression,597,i asked a girl out today
+anxiety,bipolar,598,have you ever self-sabotaged your own happiness?
+anxiety,bipolar,599,technique for calming yourself down.
+anxiety,bipolar,600,i quit my job.
+anxiety,adhd,601,2020 has destroyed my progress and it sucks.
+anxiety,depression,603,"does anybody else convince themselves that their own opinion doesn’t matter? so, they just don’t say anything at all anymore or participate in conversations"
+anxiety,adhd,604,"if i’m more than 2 minutes late, i often don’t go to a class out of fear of what others will think"
+anxiety,ptsd,606,chest pounding all day everyday
+anxiety,adhd,607,i can't comprehend how people make friends
+anxiety,bipolar,610,staring down the barrel of my 30th birthday and have never been in a relationship. all hope is now gone.
+anxiety,depression,612,anyone else sometimes feel a sense of impending doom?
+anxiety,depression,617,anyone else afraid to try new hobbies and actually get a life?
+anxiety,depression,618,today i did adult!
+anxiety,bipolar,622,life update.
+anxiety,depression,623,sunday nights are the worst thing ever created
+anxiety,depression,624,i'm 25 and i'm tired.
+anxiety,adhd,632,those 3am thoughts.
+anxiety,ptsd,635,i finally sought help and it did not go well.
+anxiety,bipolar,638,i'm finally ready to change. i can't live like this.
+anxiety,adhd,639,"it took years, and many attempts, but medication completely changed my life. please consider talking to your doctor if you haven't already."
+anxiety,depression,651,"i'm pathetic... i'm 25, no friends, living with my parents, struggling to finish school - i feel like i don't have any coping mechanisms anymore? anyone been here at my age?"
+anxiety,bipolar,652,anxiety sky high during quarintine
+anxiety,depression,654,can someone make me (21f) feel better? i feel humiliated :(
+anxiety,ptsd,656,anyone else develop poor memory?
+anxiety,depression,659,my name is kyle
+anxiety,adhd,661,i just wanna tell you guys thank you.
+anxiety,depression,664,"does anyone else hate the phrase ""man up or toughen up""?"
+anxiety,ptsd,665,over thinking compliments
+anxiety,bipolar,667,motivational speakers: do they upset anyone else?
+anxiety,ptsd,677,i'm about to confess to my crush and i'm shaking.
+anxiety,adhd,682,"after seven years in college, i graduated yesterday!"
+anxiety,bipolar,684,even the tiniest success is still kinda success
+anxiety,depression,687,made a phone call - didn't die.
+anxiety,adhd,689,"i like being with one person. i'm friendly, smiling, having good conversation. all of that is gone when there are multiple people."
+anxiety,ptsd,692,"been agoraphobic and nearly housebound for about a year. tonight went out, &amp; actually had some fun!"
+anxiety,bipolar,697,kid cudi checks himself into rehab
+anxiety,adhd,700,hey you. you don't need to do this alone.
+anxiety,depression,703,i'm so proud of myself
+anxiety,adhd,705,i got an internship!
+anxiety,ptsd,709,does anyone else ever feel really emotional by world news (eg. parkland shooting)?
+anxiety,bipolar,710,my 5 year journey of agoraphobia
+anxiety,depression,711,anyone else feel like their not actually living in reality sometimes?
+anxiety,adhd,713,guys... i just did two things i never thought i'd do in a hundred years.
+anxiety,depression,715,i was having a massive never-ending panic attack and called the suicide prevention hotline
+anxiety,bipolar,723,weekend's over... time to go to work...
+anxiety,bipolar,727,"got a dental cleaning for the first time in years, just wanted to share"
+anxiety,depression,728,i went to a diner to eat breakfast by myself this morning
+anxiety,adhd,730,just completed a task i've been avoiding for months!
+anxiety,adhd,732,"succes! i passed my english class, the first thing i've completed in 7 years!"
+anxiety,depression,733,does anyone else just sit there before work starts..
+anxiety,depression,735,are you ok? leave your user name and i'll check in on you at least once this month and ask you how are you going.
+anxiety,adhd,736,i did a presentation at college yesterday and got top marks!
+anxiety,depression,737,i got a job today
+anxiety,depression,738,is anyone else tired of being tired?
+anxiety,ptsd,739,had a panic attack. inadvertently scared the shit out of my boyfriend and an entire convention. i've never been so humiliated before.
+anxiety,depression,743,"does anyone else find suicide comforting in the, “well, if it gets worse i can always kill myself” kind of way?"
+bipolar,anxiety,744,"craving alcohol, please tell me no"
+bipolar,ptsd,745,"i'm in a rough patch, and it really hurts."
+bipolar,adhd,746,lpt: check your medbox to make sure you took *all* of your meds
+bipolar,depression,752,does anyone get in depressions so low that you feel like you are practically evil from all the guilt and stuff that you feel?
+bipolar,depression,753,i'm so sick of being alone.
+bipolar,depression,759,do you ever want to go to the hospital just to hide from life?
+bipolar,ptsd,761,how many times do we deserve to ask for help?
+bipolar,ptsd,767,i want attention so bad
+bipolar,adhd,768,what do you say when you get to the e.r.?
+bipolar,adhd,772,do you have garbled speech?
+bipolar,ptsd,774,how much benefit do you get from having an animal? i'm considering a therapy dog.
+bipolar,ptsd,776,do you guys get nightmares?
+bipolar,none,781,social media?
+bipolar,ptsd,783,i'm about to lose myself. i don't know if i can do this again [trigger warning]
+bipolar,depression,785,boyfriend says he’s not attracted to me anymore bc my depression
+bipolar,ptsd,788,sometimes i can’t talk right
+bipolar,adhd,790,i cleaned my kitchen counters off!
+bipolar,ptsd,791,yesterday my ex started harassing me and then a friend choked me
+bipolar,none,792,anyone in boston want to meet up?
+bipolar,ptsd,793,i feel so attached
+bipolar,anxiety,794,"""1) nothing makes you happy/all you do is complain/2) everytime we talk, there's conflict, so i'm anxious whenever we speak/ 3) every time you talk, you complain."" i'm afraid of being this unhappy person who pushes people away. anyone hear else? 3 long stories; tldr at the bottom."
+bipolar,ptsd,798,please respond and help me
+bipolar,depression,799,just let me enjoy the damn weather!
+bipolar,ptsd,800,"louisiana flood victim, and i'm episodic"
+bipolar,adhd,801,"forgetting how to speak correctly, or at all."
+bipolar,depression,802,my oldest brother was found dead a week ago.
+bipolar,none,803,first try at spoken word writing...
+bipolar,anxiety,805,can we share some success stories?
+bipolar,ptsd,806,thank you all for caring last night. i’m alive and i’m safe.
+bipolar,anxiety,807,wooooo i did it!
+bipolar,depression,809,for the first time since i was 9 i can say i am not depressed and i don’t know how to deal with it.
+bipolar,adhd,810,have you ever had trouble with perception of time?
+bipolar,ptsd,812,keep getting impulsive rapid thoughts when i'm alone. (nsfw)
+bipolar,ptsd,813,i need people who relate
+bipolar,ptsd,814,no symptoms before my twenties
+bipolar,adhd,816,my husband is amazing
+bipolar,anxiety,818,finally i have a mental health appointment tomorrow!! (please read)
+bipolar,adhd,820,my doctor gave me validation today and an eight month hiatus
+bipolar,depression,822,being attracted to your therapist is weird
+bipolar,none,825,trying to resist the urge to empty my bank account and fly off to a different country
+bipolar,adhd,827,stupidly didn't take my meds for 2 days and am paying for it.
+bipolar,ptsd,832,so so so sick of waking up every day wanting it to end.
+bipolar,ptsd,833,flamed out of my white collar jobs? looking at working as a dishwasher now. this happen to anyone else?
+bipolar,adhd,835,recently diagnosed and having trouble wrapping my head around it.
+bipolar,ptsd,836,i feel like i’m losing it
+bipolar,adhd,837,anybody else forgetful or lose track of time?
+bipolar,depression,838,it's my 31st birthday
+bipolar,ptsd,840,i just found my old bowl &amp; a bag of blow... i don’t even want it
+bipolar,ptsd,842,therapy during episodes. what do you do and is it helpful?
+bipolar,ptsd,844,just a bad day
+bipolar,ptsd,846,finally put a couple good days together - this sub has really helped
+bipolar,ptsd,847,bdsm: first steps back since being diagnosed. (nsfw per content)
+bipolar,ptsd,849,i'm seriously losing it.
+bipolar,depression,850,how i motivate myself to leave the house when i'm depressed and don't want to.
+bipolar,ptsd,852,i feel like i ruined my life before it even began. anyone relate? advice?
+bipolar,ptsd,853,"""out of the woods"""
+bipolar,ptsd,854,"i cried today, but out of appreciation."
+bipolar,adhd,861,"my mind races but the body, it won't get off the couch"
+bipolar,adhd,862,show me your pill box! (pictures encouraged)
+bipolar,depression,863,tfw you go to work sick so you can save your sick days for depression
+bipolar,depression,872,"my father died today. or yesterday, maybe."
+bipolar,adhd,875,i did it! passed my exam.
+bipolar,anxiety,877,going back to the clinic after three years
+bipolar,adhd,878,"ugh, the demands of holiday socializing"
+bipolar,ptsd,881,cried for the 1st time in over 5 years
+bipolar,ptsd,882,i slipped
+bipolar,ptsd,883,just got fired.
+bipolar,depression,884,i’m jealous
+bipolar,depression,885,"my big sis tried to console me by saying, ""stop being so sad."" she means the sincerest, kindest sentiment, so i don't fault her for it. but it breaks my heart that i don't think i can ever do that for her outside of hiding ""the sadness."""
+bipolar,adhd,886,"challenging the negative self thought ""i am a failure."" do it with me?"
+bipolar,ptsd,888,taking ownership
+bipolar,adhd,892,"20,000 subscribers!!"
+bipolar,adhd,894,my meds work well: a story in how i can’t stay up late any longer.
+bipolar,adhd,895,medications to keep reality and medications to keep me silent
+bipolar,depression,896,i am so sick of the summits of false hope.
+bipolar,ptsd,897,anyone else have difficulty reading?
+bipolar,ptsd,904,that left behind feeling?
+bipolar,depression,906,i think going through years of therapy has ruined my ability to fantasize
+bipolar,ptsd,908,i’m spiraling a bit after some news this morning.
+bipolar,adhd,912,meds are smoothing me out and it's making me antsy. want to do something just to feel.
+bipolar,ptsd,914,do you notice patterns?
+bipolar,anxiety,916,im ready!!
+bipolar,adhd,919,does anyone else have the most awful time choosing words wisely during conversation?
+bipolar,adhd,922,what do you wish you could have told your newly diagnosed self?
+bipolar,depression,923,all i want to do is sleep
+bipolar,anxiety,924,had a fun conversation at a bar
+bipolar,adhd,926,common cognitive distortions
+bipolar,ptsd,928,anyone here have problems with memory?
+bipolar,depression,934,i cleaned my room and did my laundry! 😃
+bipolar,adhd,937,"back on meds. oh, my god, there's so many."
+bipolar,adhd,939,lpt you can request to be switched to a different generic at your pharmacy (us)
+bipolar,anxiety,941,wife gave me divorce papers tonight. i'm completely heartbroken.
+bipolar,ptsd,945,i finally received help.
+bipolar,anxiety,949,i had two beers last night and lost my damn mind
+bipolar,ptsd,954,on feeling broken and undeserving of romantic love
+bipolar,none,958,filmmaker seeking advice (mod approved)
+bipolar,depression,961,fuck this shit.
+bipolar,adhd,966,my meds make me drunk and i drunkenly fell down the stairs
+bipolar,depression,968,anyone else find it hard to brush their teeth?
+bipolar,depression,969,no kids for me
+bipolar,anxiety,970,rollercoaster year
+bipolar,adhd,971,this is a half life psa for when you're explaining drugs to people
+bipolar,depression,973,it can't all be about suicide and overspending.
+bipolar,depression,974,not feeling after witnessing an attempted suicide
+bipolar,anxiety,980,i went on a date!
+bipolar,ptsd,982,i had ect and it changed my life
+bipolar,adhd,983,forfeited all my attendance points today.
+bipolar,adhd,984,i feel “dumb” from my meds
+bipolar,ptsd,985,"every couple weeks, i need to sleep for about half a day"
+bipolar,ptsd,987,how many of you sleep irregular hours (essentially because it is out of your control)?
+bipolar,depression,991,was anyone else raised by a personality disordered parent?
+ptsd,bipolar,994,the blows quit hurting.
+ptsd,anxiety,997,"are you afraid to ""feel too much,"" even positive emotions?"
+ptsd,bipolar,999,i feel like my life is a very dark game of thrones episode
+ptsd,none,1000,a strange and perhaps interesting question
+ptsd,bipolar,1002,just want to celebrate
+ptsd,anxiety,1003,i got a phone call today and im getting a call to sort out a counsellor
+ptsd,bipolar,1006,i just want to thank you all
+ptsd,depression,1021,anyone feel shame when opening up to friends?
+ptsd,adhd,1027,binge eating
+ptsd,depression,1033,"i find it funny. i am called 'crazy' or 'freak' when others learned about my mental disorder .. when in reality, the entire world is full of crazy"
+ptsd,anxiety,1036,just bought another weighted blanket-just wanted to share the deal i found.
+ptsd,depression,1042,after a bit of scrolling... i’m crying because reading some of these posts really make me feel validated and like i’m not alone.
+ptsd,bipolar,1043,am i even human?
+ptsd,depression,1044,has any one found themselves isolated and lonely because they have trouble connecting to ppl?
+ptsd,depression,1048,fuck it all.
+ptsd,depression,1049,does anyone else feel like they don’t deserve physical affection/ gentle touch?
+ptsd,anxiety,1052,dae have really bad disassociation after panic attacks.
+ptsd,anxiety,1066,great dane therapy dog nearly cures fiancé’s panic attacks
+ptsd,adhd,1067,i use cheap bluetooth led lights to help regulate sleep. it is amazing.
+ptsd,bipolar,1069,"do you guys recommend ""the body keeps the score""?"
+ptsd,bipolar,1073,i’m so so proud of my friend but i don’t have anyone to gush to about it. there is always hope
+ptsd,adhd,1077,have any of you gotten too attached to the first person who treated you well after your diagnosis?
+ptsd,adhd,1079,high functioning...on the outside
+ptsd,bipolar,1080,i'm afraid of fully confronting my childhood experiences because i'm afraid of experiencing a psychotic break
+ptsd,anxiety,1083,i'm not afraid. i don't feel anything.
+ptsd,anxiety,1087,scared of having exposed skin.
+ptsd,bipolar,1090,my current so drinks (not excessively). i can't stop hating alcohol and thinking poorly of people who drink it.
+ptsd,anxiety,1091,therapist offered to look away and it worked
+ptsd,anxiety,1092,does anyone get super overwhelmed over small things?
+ptsd,bipolar,1094,eternal sunshine. (discussion)
+ptsd,depression,1100,i don’t know if anyone cares but my dad died 5 years ago today.
+ptsd,bipolar,1101,anniversaries
+ptsd,depression,1102,*nsfw?* attempted suicide for the 20 something time last week. therapist said there’s a high chance i will end up dead by my own hand.
+ptsd,depression,1103,i hate everything
+ptsd,depression,1105,does anyone else have phases of absolute isolation and rejection?
+ptsd,adhd,1110,"i wish i wouldn’t get so agitated, and i wish i had the strength to tell people why"
+ptsd,bipolar,1111,18+ mental health peer support on discord
+ptsd,depression,1113,i finally decided to live.
+ptsd,anxiety,1117,cbd oil feels like a miracle
+ptsd,depression,1120,"0730hrs, ive finally drank and smoked the ""voices"" away."
+ptsd,depression,1121,"ever wanted to show revenge to the person who ruined your life? (warning: if these feelings are personal to you, then dont read it)"
+ptsd,depression,1122,i cry whenever we raise our voice at our daughter
+ptsd,anxiety,1124,anyone tired of constantly second guessing whether your feelings towards others/situations are intuitive or a traumatic response?
+ptsd,anxiety,1125,"first date. me, my service dog and her"
+ptsd,depression,1126,"i participated in two wars before i turned 21, but that's not why i'm here."
+ptsd,anxiety,1133,the way a therapy dog has helped me most.
+ptsd,anxiety,1138,who ever posted about the weighted blankets... thank you!!!
+ptsd,depression,1141,anyone else live an almost entirely solitary life?
+ptsd,anxiety,1144,how do you guys calm down after a panic attack
+ptsd,anxiety,1145,finally went to therapy after 13 difficult years
+ptsd,depression,1148,anyone else had to resort to online education or quit college because they cant concentrate in traditional classrooms?
+ptsd,adhd,1153,"when the ""employee rights"" mandatory meeting is what triggered my fucking asshole brain"
+ptsd,anxiety,1155,"i did everything right, and it didn't matter"
+ptsd,anxiety,1164,i cried several times today
+ptsd,depression,1167,people assume they would be much stronger in our position
+ptsd,adhd,1169,i was diagnosed yesterday
+ptsd,anxiety,1172,pretty extreme anxiety lately.
+ptsd,bipolar,1173,[tw: suicide] a week in the psych ward. anyone else here spend time in one?
+ptsd,bipolar,1174,how does everyone hold a job?
+ptsd,adhd,1175,i disclosed!!! i did it! i actually did it!!!!!
+ptsd,bipolar,1176,almost fifteen years later and i'm okay (positive but some tw)
+ptsd,adhd,1180,"what being ""numb"" feels like to me."
+ptsd,bipolar,1181,i am not ok
+ptsd,anxiety,1187,do you ever feel as though you are unlovable and will always just be a burden?
+ptsd,bipolar,1189,self sabotaging?
+ptsd,adhd,1192,no one will give me my meds
+ptsd,none,1194,looking for understanding friends
+ptsd,anxiety,1195,i visited a psychiatrist today for the first time.
+ptsd,bipolar,1197,memory issues
+ptsd,bipolar,1202,my son was hospitalized last night
+ptsd,adhd,1206,loss of interest in everything.
+ptsd,depression,1208,do you internalize everything or take it out on others?
+ptsd,bipolar,1209,in what ways have you invested in your mental health?
+ptsd,anxiety,1210,took a huge step yesterday!
+ptsd,adhd,1214,"didn't realize how much i was numbing and escaping emotions with alcohol, until i quit drinking. it's been 6 months and the process is hell but i've already started to regain my life"
+ptsd,adhd,1215,"my father is going into critical condition and i had to say the most difficult thing in my life, to respect his wishes and not do cpr. he's in bad shape and it would only likely give him a few more hours. my anxiety is killing me right now making it hard to travel."
+ptsd,adhd,1219,you know what i hate the most?
+ptsd,depression,1221,my therapist has cancer
+ptsd,adhd,1226,you know what i hate???
+ptsd,adhd,1227,my short term memory
+ptsd,anxiety,1231,just stopped myself from going into a full blown panic attack and he didn’t even notice.
+ptsd,bipolar,1232,friendly reminder that irregular periods can be a physical symptom.
+ptsd,depression,1235,how can i accept the fact that nobody cares about me?
+ptsd,anxiety,1237,has anyone used an isolation tank?
+ptsd,bipolar,1239,tv shows?
+none,bipolar,1242,i am no more a bhakt !!
+none,bipolar,1253,alright dilli. kya maa chudi padi hai?
+none,bipolar,1254,are you cold?
+none,depression,1273,"i never quit my job, because that's ridiculous, and made an album anyway!"
+none,ptsd,1274,how to address certain people?
+none,adhd,1286,curious about phone calls habits
+none,ptsd,1287,police harassed me for just sitting in car with my girlfriend
+none,adhd,1288,i just skipped through 767 songs until my pandora station played a song by the artist the station is based on.
+none,adhd,1289,trouble hearing words in a song
+none,adhd,1291,a little (maybe useless) tool i've just made
+none,ptsd,1295,"finally, i was able to change my dad's mind on bjp.."
+none,anxiety,1304,i arrived in japan with only $6 in my pocket and survived an entire day
+none,adhd,1325,"whats a nicer way to say ""you shouldnt worry about my marks, just focus on your own"""
+none,ptsd,1328,you can help my mother.
+none,depression,1329,something about rahul gandhi hit me hard.
+none,adhd,1337,"i recently discovered alt-j’s “an awesome wave” and to say the least, i’m blown away."
+none,ptsd,1342,i can't find an explanation for this
+none,adhd,1347,"does this sentence make sense to you? ""you should have had cleaned the room before your visitors arrived."""
+none,depression,1381,fuck your mother fucking ivory towers
+none,bipolar,1385,system of a down
+none,adhd,1391,"with 2017 so fresh, here's an idea i stole from my gf that she's been doing for years. i recommend it!"
+none,bipolar,1393,how to reply to “mood”?
+none,anxiety,1394,my relatives visited me. and i live with my girlfriend unbeknownst to them. and they lost their shit. and it was a thing of beauty. (re-posting because violated some rules earlier)
+none,ptsd,1399,pop
+none,bipolar,1405,what are heebie jeebies?
+none,bipolar,1409,"""hurt"" by johnny cash"
+none,bipolar,1424,[rant] quikr is sham and i wait for the day it goes up in flames
+none,ptsd,1436,185
+none,bipolar,1441,i live in bihar and i’m terrified
+none,bipolar,1465,i’m lowkey in shock
+none,ptsd,1466,my english teacher took some points away
+none,bipolar,1472,[p] why can't yogi adityanath...
